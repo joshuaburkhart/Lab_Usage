@@ -9,6 +9,6 @@ do
 	NAME=$(hostname)
 	PS_OUT=$(ps -ef | tr '\n' '|')
 	ROW_DATA=$(echo "$DATE%$NAME%$PS_OUT" | tr -s ' ')
-	row_parser.rb "$ROW_DATA" > nc $1 $2
+	row_parser.rb "$ROW_DATA" | nc $1 $2
 	sleep 60
 done

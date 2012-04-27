@@ -1,0 +1,16 @@
+Fri Apr 27 10:57:27 PDT 2012 , molluska.cs.uoregon.edu , d946adf52a4783929f122d341b29ac0fe188371c PID PPID C STIME TTY TIME CMD STAT SL RE PAGEIN VSZ RSS LIM TSIZ %CPU %MEM 
+Fri Apr 27 10:57:27 PDT 2012 , molluska.cs.uoregon.edu , e3819c038ad47d81966e583f99a15ea585abf0c2 19085 18615 0 0:00.01 ?? 0:00.02 /System/Library/ S 0 0 0 2711792 3740 - 0 0.0 0.1 
+Fri Apr 27 10:57:27 PDT 2012 , molluska.cs.uoregon.edu , b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 19222 19221 0 0:00.00 ttys008 0:00.00 ps -dfv R+ 0 0 0 2435128 536 - 0 0.0 0.0 
+Fri Apr 27 10:57:27 PDT 2012 , molluska.cs.uoregon.edu , e3819c038ad47d81966e583f99a15ea585abf0c2 19223 19221 0 0:00.00 ttys008 0:00.00 tr \n 
+Fri Apr 27 10:57:27 PDT 2012 , molluska.cs.uoregon.edu , c8d2facacfab55e2ad0b5f5e462c48bc7937e6f2 0 0 0 2434844 444 - 0 0.0 0.0 
+Fri Apr 27 10:57:27 PDT 2012 , molluska.cs.uoregon.edu , e3819c038ad47d81966e583f99a15ea585abf0c2 19221 19218 0 0:00.00 ttys008 0:00.00 /bin/bash ./clie S+ 0 0 0 2435544 380 - 0 0.0 0.0 
+Fri Apr 27 10:57:27 PDT 2012 , molluska.cs.uoregon.edu , e3819c038ad47d81966e583f99a15ea585abf0c2 19216 19215 0 0:00.00 ttys004 0:00.00 nc -l 12345 S+ 0 0 0 2435368 368 - 0 0.0 0.0 
+Fri Apr 27 10:57:27 PDT 2012 , molluska.cs.uoregon.edu , b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 227 225 0 0:02.37 ?? 0:03.16 /usr/sbin/rpc.lo S 0 0 0 2446420 328 - 0 0.0 0.0 
+Fri Apr 27 10:58:27 PDT 2012 , molluska.cs.uoregon.edu , d946adf52a4783929f122d341b29ac0fe188371c PID PPID C STIME TTY TIME CMD STAT SL RE PAGEIN VSZ RSS LIM TSIZ %CPU %MEM 
+Fri Apr 27 10:58:27 PDT 2012 , molluska.cs.uoregon.edu , e3819c038ad47d81966e583f99a15ea585abf0c2 19085 18615 0 0:00.01 ?? 0:00.02 /System/Library/ S 0 0 0 2711792 3740 - 0 0.0 0.1 
+Fri Apr 27 10:58:27 PDT 2012 , molluska.cs.uoregon.edu , b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 19240 19239 0 0:00.00 ttys008 0:00.00 ps -dfv R+ 0 0 0 2435128 536 - 0 0.0 0.0 
+Fri Apr 27 10:58:27 PDT 2012 , molluska.cs.uoregon.edu , e3819c038ad47d81966e583f99a15ea585abf0c2 19239 19218 0 0:00.00 ttys008 0:00.00 /bin/bash ./clie S+ 0 0 0 2435544 380 - 0 0.0 0.0 
+Fri Apr 27 10:58:27 PDT 2012 , molluska.cs.uoregon.edu , e3819c038ad47d81966e583f99a15ea585abf0c2 19231 19215 0 0:00.00 ttys004 0:00.00 nc -l 12345 S+ 0 0 0 2435368 368 - 0 0.0 0.0 
+Fri Apr 27 10:58:27 PDT 2012 , molluska.cs.uoregon.edu , e3819c038ad47d81966e583f99a15ea585abf0c2 19241 19239 0 0:00.00 ttys008 0:00.00 tr \n 
+Fri Apr 27 10:58:27 PDT 2012 , molluska.cs.uoregon.edu , c8d2facacfab55e2ad0b5f5e462c48bc7937e6f2 0 0 0 2435544 360 - 0 0.0 0.0 
+Fri Apr 27 10:58:27 PDT 2012 , molluska.cs.uoregon.edu , b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 227 225 0 0:02.37 ?? 0:03.16 /usr/sbin/rpc.lo S 0 0 0 2446420 328 - 0 0.0 0.0 

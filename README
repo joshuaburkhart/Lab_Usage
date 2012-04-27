@@ -1,0 +1,21 @@
+Final Projects
+
+Project Proposals due: Friday June 1 11:59pm
+Project Presentations: Thursday June 14 3:15pm - 5:15pm
+Final Reports due: Friday June 15 11:59pm
+
+Projects are intended to give students the opportunity to explore ideas or directions in Data Mining that we cover in class (e.g., data generalization, data warehousing, association mining, classification and prediction, clustering and outlier analysis), to discover interesting pattern and knowledge from available application data sets (e.g., web data, biomedical data, health data, network data, social network, e-commence data, and retail data).
+
+Project work will include an 5 minute presentation (with slides) on June 14, Monday 3:15pm -- 5:15pm (final exam time) and an 8 page research paper for all students, submitted as final reports.
+
+Project proposals are to be 5 pages in length and will include a definition of the direction, the particular problem to be considered in that direction, and a list of several references that will support the project. The bottom of course web page has some useful links for finding a project and existing data mining softwares. If you find nothing interesting, please talk with the instructor. The Advanced Integration and Mining Lab has several ongoing data mining research projects.
+
+Students should plan on either experimenting existing data mining softwares with collected data or extending existing softwares for specific domains. The projects will be expected to be individual work. Graduate students in CIS 543 are expected to show some extensions of existing data mining algorithms or to develop new algorithms to solve real world problems.
+
+Your final paper and presentation should clarify the following issues:
+
+    * what is the problem and data sets addressed by the project,
+    * what are the data mining algorithms or tools used,
+    * what are the knowledge or pattern discovered from the project,
+    * what are your evaluations and ideas for extensions and improvements. 
+

@@ -13,11 +13,7 @@ while true
 do
 	DATE=$(date)
 	NAME=$(hostname)
-	#ROW_DATA=$(ps -ef | awk '{$5=""; $7=""; print $0}' | tr '\n' '|' | tr -s ' ')
-	#ROW_DATA=$(echo "$DATE,$NAME,$PS_OUT" | tr -s ' ')
-	#ROW_DATA=$(echo "$PS_OUT" | tr -s ' ')
-	#echo $ROW_DATA > $TMP_FILE_1
-	ps -ef | awk '{$5=""; $7=""; print $0}' | tr -s ' ' > $TMP_FILE_1
+	ps -Af | awk '{$5=""; $7=""; print $0}' | tr -s ' ' > $TMP_FILE_1
 	DIFF=$(diff $TMP_FILE_1 $TMP_FILE_2 | tr '\n' '|') 
 	row_parser.rb "$DATE" "$NAME" "$DIFF" | nc $1 $2
 	cat $TMP_FILE_1 > $TMP_FILE_2

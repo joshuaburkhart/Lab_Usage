@@ -1,0 +1,86 @@
+Fri Apr 27 14:22:18 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23656 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:22:18 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23627 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:22:18 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23660 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:22:18 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23661 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:22:18 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23646 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:22:18 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23647 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:23:18 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23680 1 0 ?? /usr/sbin/ocspd 
+Fri Apr 27 14:23:18 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23670 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:23:18 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23656 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:23:18 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23696 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:23:18 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23697 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:23:18 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23660 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:23:18 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23661 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 21040 209 0 ?? /System/Library/Frameworks/QuickLook.framework/Resources/quicklookd.app/Contents/MacOS/quicklookd 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23708 209 0 ?? /Applications/Chess.app/Contents/MacOS/Chess -psn_0_2642565 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23710 209 0 ?? /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/Resources/SpeechRecognitionServer.app/Contents/MacOS/SpeechRecognitionServer -psn_0_2646662 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23711 209 0 ?? /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/cvmsComp_x86_64 1 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23712 23708 0 ?? /Applications/Chess.app/Contents/Resources/sjeng.ChessEngine sjeng (Chess Engine) 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23714 209 0 ?? /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/Resources/SpeechFeedbackWindow.app/Contents/MacOS/SpeechFeedbackWindow -psn_0_2650759 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23706 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23670 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23718 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23719 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23720 23632 0 ttys008 tr -s 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23696 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:24:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23697 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:25:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23728 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:25:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23706 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:25:19 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23734 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:25:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23735 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:25:19 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23718 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:25:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23719 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:25:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23720 23632 0 ttys008 tr -s 
+Fri Apr 27 14:26:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23744 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:26:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23728 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:26:19 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23749 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:26:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23750 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:26:19 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23734 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:26:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23735 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 20923 209 0 ?? /Applications/TextWrangler.app/Contents/MacOS/TextWrangler -psn_0_2626177 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 20925 20923 0 ?? (crash-catcher) 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23708 209 0 ?? /Applications/Chess.app/Contents/MacOS/Chess -psn_0_2642565 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23710 209 0 ?? /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/Resources/SpeechRecognitionServer.app/Contents/MacOS/SpeechRecognitionServer -psn_0_2646662 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23761 209 0 ?? /System/Library/Frameworks/PubSub.framework/Versions/A/Resources/PubSubAgent.app/Contents/MacOS/PubSubAgent 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23712 23708 0 ?? /Applications/Chess.app/Contents/Resources/sjeng.ChessEngine sjeng (Chess Engine) 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23714 209 0 ?? /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/Resources/SpeechFeedbackWindow.app/Contents/MacOS/SpeechFeedbackWindow -psn_0_2650759 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23759 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23744 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23764 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23765 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23749 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:27:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23750 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:28:19 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23680 1 0 ?? /usr/sbin/ocspd 
+Fri Apr 27 14:28:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23774 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:28:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23759 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:28:19 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23782 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:28:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23783 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:28:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23784 23632 0 ttys008 tr -s 
+Fri Apr 27 14:28:19 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23764 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:28:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23765 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:29:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23711 209 0 ?? /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/cvmsComp_x86_64 1 
+Fri Apr 27 14:29:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23792 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:29:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23774 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:29:19 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23798 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:29:19 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23799 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:29:19 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23782 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:29:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23783 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:29:19 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23784 23632 0 ttys008 tr -s 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23816 1 0 ?? automountd 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23761 209 0 ?? /System/Library/Frameworks/PubSub.framework/Versions/A/Resources/PubSubAgent.app/Contents/MacOS/PubSubAgent 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23808 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23792 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23828 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23829 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23798 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23799 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23810 352 0 ttys011 login -fp burkhart 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23811 23810 0 ttys011 -bash 
+Fri Apr 27 14:30:20 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23824 23811 0 ttys011 irb 
+Fri Apr 27 14:31:20 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23838 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:31:20 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23808 19727 0 ttys004 nc -l 12345 
+Fri Apr 27 14:31:20 PDT 2012 , molluska.cs.uoregon.edu , < b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23842 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:31:20 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23843 23632 0 ttys008 awk {$5=""; $7=""; print $0} 
+Fri Apr 27 14:31:20 PDT 2012 , molluska.cs.uoregon.edu , < e3819c038ad47d81966e583f99a15ea585abf0c2 23844 23632 0 ttys008 tr -s 
+Fri Apr 27 14:31:20 PDT 2012 , molluska.cs.uoregon.edu , > b6589fc6ab0dc82cf12099d1c2d40ab994e8410c 23828 23632 0 ttys008 ps -ef 
+Fri Apr 27 14:31:20 PDT 2012 , molluska.cs.uoregon.edu , > e3819c038ad47d81966e583f99a15ea585abf0c2 23829 23632 0 ttys008 awk {$5=""; $7=""; print $0} 

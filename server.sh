@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #Usage: ./server.sh <listening port> <output file>
-#Example: ./server.sh 12345 lab_100_data.csv
+#Example: ./server.sh 12345 output_data.csv
 
 while true
 do

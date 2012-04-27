@@ -3,12 +3,23 @@
 #Usage: ./client.sh <server hostname> <server listening port>
 #Example: ./client.sh molluska.cs.uoregon.edu 12345
 
+TMP_FILE_1=$(date +%s | shasum | tr ' -' 'X')
+touch $TMP_FILE_1
+sleep 1
+TMP_FILE_2=$(date +%s | shasum | tr ' -' 'X')
+touch $TMP_FILE_2
+
 while true
 do
 	DATE=$(date)
 	NAME=$(hostname)
-	PS_OUT=$(ps -dfv | tr '\n' '|')
-	ROW_DATA=$(echo "$DATE,$NAME,$PS_OUT" | tr -s ' ')
-	row_parser.rb "$ROW_DATA" | nc $1 $2
+	#ROW_DATA=$(ps -ef | awk '{$5=""; $7=""; print $0}' | tr '\n' '|' | tr -s ' ')
+	#ROW_DATA=$(echo "$DATE,$NAME,$PS_OUT" | tr -s ' ')
+	#ROW_DATA=$(echo "$PS_OUT" | tr -s ' ')
+	#echo $ROW_DATA > $TMP_FILE_1
+	ps -ef | awk '{$5=""; $7=""; print $0}' | tr -s ' ' > $TMP_FILE_1
+	DIFF=$(diff $TMP_FILE_1 $TMP_FILE_2 | tr '\n' '|') 
+	row_parser.rb "$DATE" "$NAME" "$DIFF" | nc $1 $2
+	cat $TMP_FILE_1 > $TMP_FILE_2
 	sleep 60
 done
